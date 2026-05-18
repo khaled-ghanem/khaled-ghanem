@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Khaled Ghanem
 
-**AI & Data Scientist** | Deep Learning | Computational Biology | Medical Imaging
+**AI & Data Scientist**
 
 ---
 
-## 🔬 About Me
+## About Me
 
 I'm an **AI & Data Science specialist** with deep expertise in:
 - **Deep Learning & Computer Vision:** CNNs, GANs, Transformers, medical image analysis
@@ -25,10 +25,10 @@ My work applies cutting-edge AI and data science techniques to solve complex pro
 - Languages: `Python` • `R` • `SQL` • `Bash` • `Git` • `Docker` • `Linux`
 
 **AI & Deep Learning** 
-`PyTorch` • `TensorFlow` • `CNNs (ResNet, VGG, EfficientNet)` • `GANs` • `Autoencoders` • `Transformers` • `Object Detection (YOLOv8)` • `Image Segmentation (U-Net)` • `Medical Image Analysis` • `Transfer Learning` • `Transformers` • `LLM-based Agents`
+- `PyTorch` • `TensorFlow` • `CNNs (ResNet, VGG, EfficientNet)` • `GANs` • `Autoencoders` • `Transformers` • `Object Detection (YOLOv8)` • `Image Segmentation (U-Net)` • `Medical Image Analysis` • `Transfer Learning` • `Transformers` • `LLM-based Agents`
 
 **Machine Learning & Data Science**
-`Scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `Ensemble Methods` • `Feature Engineering` • `Model Interpretability (SHAP)` • `Hyperparameter Tuning`
+- `Scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `Ensemble Methods` • `Feature Engineering` • `Model Interpretability (SHAP)` • `Hyperparameter Tuning`
 
 **Cloud & MLOps**
 - Platforms: `AWS` • `Huawei Cloud`
@@ -87,7 +87,7 @@ Developed ML models on clinical and genetic biomarkers for CAD risk prediction, 
 
 ---
 
-## 🚀 Let's Collaborate!
+## 🚀 Let's Collaborate!    
 
 I'm open to collaborations in:
 - Computational biology & bioinformatics research
