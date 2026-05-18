@@ -69,15 +69,6 @@ Developed ML models on clinical and genetic biomarkers for CAD risk prediction, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled-ghanem&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-ghanem&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
--
-
 ## 📬 Get in Touch
 
 - 📧 **Email:** khaledghanem597@gmail.com
