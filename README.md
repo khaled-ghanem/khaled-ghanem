@@ -6,13 +6,11 @@
 
 ## About Me
 
-I'm an **AI & Data Science specialist** with deep expertise in:
-- **Deep Learning & Computer Vision:** CNNs, GANs, Transformers, medical image analysis
-- **Machine Learning & Data Science:** Scikit-learn, XGBoost, LightGBM, ensemble methods, statistical modeling
-- **Bioinformatics & Genomics:** Single-cell transcriptomics (scRNA-seq), epigenomics, network biology, causal inference
-- **Cloud & MLOps:** AWS, Docker, model deployment, production pipelines
+AI Engineer and Bioinformatics Researcher with a strong background in Machine Learning, Computer Vision, and multi-omics data analysis. 
 
-My work applies cutting-edge AI and data science techniques to solve complex problems in healthcare, medical imaging, and translational genomics.
+My work focuses on applying deep learning and statistical modeling to real-world healthcare and genomics problems, including disease prediction, medical image analysis, single-cell transcriptomics, and causal inference.
+
+I’m particularly interested in building AI systems that bridge computational research and clinical impact.
 
 ---
 
