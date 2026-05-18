@@ -1,0 +1,98 @@
+# 👋 Hello, I'm Khaled Ghanem
+
+**AI & Data Scientist** | Deep Learning | Computational Biology | Medical Imaging
+
+---
+
+## 🔬 About Me
+
+I'm an **AI & Data Science specialist** with deep expertise in:
+- **Deep Learning & Computer Vision:** CNNs, GANs, Transformers, medical image analysis
+- **Machine Learning & Data Science:** Scikit-learn, XGBoost, LightGBM, ensemble methods, statistical modeling
+- **Bioinformatics & Genomics:** Single-cell transcriptomics (scRNA-seq), epigenomics, network biology, causal inference
+- **Cloud & MLOps:** AWS, Docker, model deployment, production pipelines
+
+My work applies cutting-edge AI and data science techniques to solve complex problems in healthcare, medical imaging, and translational genomics.
+
+---
+
+## 💻 Technical Stack
+
+**Mathematics & Statistics**
+- `Linear Algebra` • `Probability & Statistics` • `Statistical Modeling` • `Hypothesis Testing` • `Causal Inference`
+
+**Programming & Engineering**
+- Languages: `Python` • `R` • `SQL` • `Bash` • `Git` • `Docker` • `Linux`
+
+**AI & Deep Learning** 
+`PyTorch` • `TensorFlow` • `CNNs (ResNet, VGG, EfficientNet)` • `GANs` • `Autoencoders` • `Transformers` • `Object Detection (YOLOv8)` • `Image Segmentation (U-Net)` • `Medical Image Analysis` • `Transfer Learning` • `Transformers` • `LLM-based Agents`
+
+**Machine Learning & Data Science**
+`Scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `Ensemble Methods` • `Feature Engineering` • `Model Interpretability (SHAP)` • `Hyperparameter Tuning`
+
+**Cloud & MLOps**
+- Platforms: `AWS` • `Huawei Cloud`
+- Deployment: `Docker` • `Model deployment (Gradio, Flask APIs)`
+
+**Bioinformatics & Omics**
+- Workflow & Environment Management: `Conda` • `Nextflow` • `Snakemake`
+- Bioinformatics Tools: `FastQC` • `fastp` • `Trimmomatic` • `Kallisto` • `Bowtie2` • `GATK` • `SAMtools` • `BCFtools`
+- Omics Analysis: `RNA-seq` • `scRNA-seq` • `WGS` • `WES` • `Metabolomics` • `Multi-omics Integration`
+
+
+---
+
+## 🏆 Featured Projects
+
+### 🧬 Multi-Omics Causal Inference: Periodontitis & Type 2 Diabetes
+Integrated scRNA-seq, DNA methylation, and GWAS data to uncover inflammatory drivers of periodontal-diabetic comorbidity using Mendelian Randomization.
+- **Tech:** Seurat • Harmony • minfi • limma • TwoSampleMR • STRINGdb
+- **Skills:** Single-cell analysis, epigenomics, causal inference, network biology
+
+### 🫁 Pulmonary Nodule Detection & Analysis System
+Developed an end-to-end medical imaging pipeline for early lung nodule detection and malignancy analysis from CT scans.
+- **Tech:** PyTorch • YOLOv8 • U-Net • EfficientNet • OpenCV • LangChain • Gradio
+- **Skills:** Object detection, medical image segmentation, classification, multimodal AI, report generation
+
+### 👁️ AI-Based Eye Disease Diagnosis
+Built deep learning models for retinal disease classification using fundus images, achieving 99% classification accuracy across 5 disease categories.
+- **Tech:** TensorFlow • ResNet50 • VGG19 • Flask • Flutter
+- **Skills:** Computer vision, transfer learning, medical imaging, deployment
+
+### 🩺 Medical Visual Question Answering (VQA) Assistant
+Designed a Vision-Language AI assistant enabling clinicians to query medical images in natural language with context-aware responses.
+- **Tech:** HuggingFace Transformers • BLIP • LangChain • OpenCV • Gradio
+- **Skills:** Vision-language models, multimodal AI, LLM agents, medical AI
+
+### ❤️ Coronary Artery Disease Prediction (IL-18 Biomarker Study)
+Developed ML models on clinical and genetic biomarkers for CAD risk prediction, achieving AUC up to 0.956.
+- **Tech:** Scikit-learn • Random Forest • SVM • SciPy • StatsModels
+- **Skills:** Predictive modeling, biostatistics, feature engineering, explainable AI
+
+---
+
+## 📊 GitHub Stats
+
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-ghanem&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-ghanem&layout=compact&theme=dracula)
+
+-
+
+## 📬 Get in Touch
+
+- 📧 **Email:** khaledghanem597@gmail.com
+- 💼 **LinkedIn:** [Khaled Ghanem](https://www.linkedin.com/in/khaled-ghanem)
+- 🌐 **Upwork:** [Khaled M.](https://www.upwork.com/freelancers/~0124f736068883917a?mp_source=share)
+
+---
+
+## 🚀 Let's Collaborate!
+
+I'm open to collaborations in:
+- Computational biology & bioinformatics research
+- Multi-omics data analysis and integration
+- Medical AI and disease prediction models
+- Open-source bioinformatics tool development
+
+Feel free to reach out if you'd like to discuss data science, genomics, or AI applications in healthcare!
