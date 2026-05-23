@@ -23,7 +23,7 @@ I’m particularly interested in building AI systems that bridge computational r
 - Languages: `Python` • `R` • `SQL` • `Bash` • `Git` • `Docker` • `Linux`
 
 **AI & Deep Learning** 
-- `PyTorch` • `TensorFlow` • `CNNs (ResNet, VGG, EfficientNet)` • `GANs` • `Autoencoders` • `Transformers` • `Object Detection (YOLOv8)` • `Image Segmentation (U-Net)` • `Medical Image Analysis` • `Transfer Learning` • `Transformers` • `LLM-based Agents`
+- `PyTorch` • `TensorFlow` • `CNNs (ResNet, VGG, EfficientNet)` • `Object Detection (YOLOv8)` • `Image Segmentation (U-Net)` • `Medical Image Analysis` • `Transfer Learning`  • `Autoencoders` • `GANs` • `Transformers` • `LLM-based Agents`
 
 **Machine Learning & Data Science**
 - `Scikit-learn` • `XGBoost` • `LightGBM` • `Pandas` • `NumPy` • `Ensemble Methods` • `Feature Engineering` • `Model Interpretability (SHAP)` • `Hyperparameter Tuning`
