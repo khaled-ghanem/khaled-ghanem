@@ -30,7 +30,7 @@ I’m particularly interested in building AI systems that bridge computational r
 
 **Cloud & MLOps**
 - Platforms: `AWS` • `Huawei Cloud`
-- Deployment: `Docker` • `Model deployment (Gradio, Flask APIs)`
+- Deployment: `Docker` • `Model deployment (ngrok, Flask & Fast APIs)`
 
 **Bioinformatics & Omics**
 - Workflow & Environment Management: `Conda` • `Nextflow` • `Snakemake`
