@@ -69,6 +69,10 @@ Developed ML models on clinical and genetic biomarkers for CAD risk prediction, 
 
 ---
 
+## 🔬 Collaborations
+- **[APEX](https://github.com/walids2003/APEX)** — Aircraft defect detection (collaborator)
+
+---
 ## 📬 Get in Touch
 
 - 📧 **Email:** khaledghanem597@gmail.com
