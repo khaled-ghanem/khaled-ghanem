@@ -42,6 +42,14 @@ I’m particularly interested in building AI systems that bridge computational r
 
 ## 🏆 Featured Projects
 
+<!-- TODO(Khaled): swap in the DOI link once the paper is live -->
+### 🩻 Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal & Maxillary Sinus Metrics
+📄 Published in *International Journal of Legal Medicine* — [Paper](PASTE_PUBLISHED_LINK_HERE) · [Code](https://github.com/ML-Forensics/ml-forensic-sex-prediction)
+
+Multi-institutional forensic anthropology study (Assiut & Benha, Egypt, n=195). Built an end-to-end ML pipeline comparing two feature-selection/hyperparameter-tuning framework orderings across six classifiers to predict biological sex from CT-based nasal and maxillary sinus anthropometry — best model AUC 0.771.
+- **Tech:** Scikit-learn • XGBoost • CatBoost • LightGBM • Optuna • SVM/Logistic Regression
+- **Skills:** Feature engineering, feature selection (RFE, LASSO, SelectKBest), Bayesian hyperparameter tuning, bootstrap confidence intervals, forensic anthropometry, multi-institutional research collaboration
+
 ### 🧬 Multi-Omics Causal Inference: Periodontitis & Type 2 Diabetes
 Integrated scRNA-seq, DNA methylation, and GWAS data to uncover inflammatory drivers of periodontal-diabetic comorbidity using Mendelian Randomization.
 - **Tech:** Seurat • Harmony • minfi • limma • TwoSampleMR • STRINGdb
