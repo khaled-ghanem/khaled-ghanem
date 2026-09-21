@@ -44,7 +44,7 @@ I’m particularly interested in building AI systems that bridge computational r
 
 <!-- TODO(Khaled): swap in the DOI link once the paper is live -->
 ### 🩻 Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal & Maxillary Sinus Metrics
-📄 Published in *International Journal of Legal Medicine* — [Paper](PASTE_PUBLISHED_LINK_HERE) · [Code](https://github.com/ML-Forensics/ml-forensic-sex-prediction)
+📄 Published in *International Journal of Legal Medicine* — [Paper](https://link.springer.com/article/10.1007/s00414-026-03951-6) · [Code](https://github.com/ML-Forensics/ml-forensic-sex-prediction)
 
 Multi-institutional forensic anthropology study (Assiut & Benha, Egypt, n=195). Built an end-to-end ML pipeline comparing two feature-selection/hyperparameter-tuning framework orderings across six classifiers to predict biological sex from CT-based nasal and maxillary sinus anthropometry — best model AUC 0.771.
 - **Tech:** Scikit-learn • XGBoost • CatBoost • LightGBM • Optuna • SVM/Logistic Regression
